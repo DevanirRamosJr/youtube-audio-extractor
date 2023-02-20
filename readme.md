@@ -10,7 +10,7 @@ There is also the possibility to convert only a part of the audio.
 First you need to download and install [ffmpeg](http://www.ffmpeg.org/) or [libav](http://libav.org/).
 
 
-For python, it is recommend to use a venv!
+For python, it is recommended to use a venv!
 
 With or without venv, you simply need to do:
 
